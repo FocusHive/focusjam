@@ -1,7 +1,5 @@
 # Focus Jam
 
-![Focus Jam Logo](https://example.com/logo.png)
-
 Focus Jam is a cutting-edge communication platform and service center, proudly brought to you by Focus Hive Inc. Our mission is to revolutionize the way organizations connect and collaborate remotely by providing a seamless and feature-rich online meeting experience.
 
 ## Table of Contents
