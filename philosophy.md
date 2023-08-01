@@ -1,5 +1,5 @@
 # Focus Jam Policies and Guide
-Focus Jam is a philosophy designed to foster collaboration and sharing in a work environment. It mirrors our clients' dynamic schedules filled with meetings and discussions. In the Focus Jam, we encourage open dialogue about your day, your projects, and even your feelings towards them. This openness promotes a sense of community and shared understanding among team members.
+Focus Jam is a philosophy designed to foster collaboration and sharing in a work environment. It mirrors our clients' dynamic schedules filled with meetings and discussions. In the Focus Jam, we encourage open dialogue about your day, your projects, and even your feelings toward your projects. This openness promotes a sense of community and shared understanding among team members.
 
 ## :scroll: Why Do We Have Focus Jams?
 ### :pencil2: Focus Jams and Remote Work
